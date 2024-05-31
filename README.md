@@ -1,4 +1,4 @@
-# PJM Energy Usage w/ Time Series Forecasting
+# Pennsylvania-New Jersey-Maryland Interconnection Energy Usage w/ Time Series Forecasting
 
 PJM Interconnection LLC is a regional transmission organization (RTO) in the United States. It operates as part of the Eastern Interconnection grid, managing an electric transmission system that serves all or parts of Delaware, Illinois, Indiana, Kentucky, Maryland, Michigan, New Jersey, North Carolina, Ohio, Pennsylvania, Tennessee, Virginia, West Virginia, and the District of Columbia.
 
